@@ -2,14 +2,14 @@
 title: "Getting and Cleaning Data Course Project: Readme"
 author: "José Tapiz Arrondo AKA José Francisco Tapiz Arrondo AKA Pachi Tapiz Arrondo AKA PTA AKA Diyeipetea"
 date: "2025-03-28"
-output: html_document
 ---
 
-```markdown
+
 # Human Activity Recognition Using Smartphones
 
 ## Project Overview
-This project demonstrates the ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. The data used in this project is collected from the accelerometers of the Samsung Galaxy S smartphone.
+This project demonstrates the ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
+The data used in this project is collected from the accelerometers of the Samsung Galaxy S smartphone.
 
 ## Data Source
 The data for this project was obtained from the UCI Machine Learning Repository:
